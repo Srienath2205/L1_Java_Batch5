@@ -6,5 +6,6 @@ class Sample
       System.out.println("I am Srienath");
       System.out.println("I am Madhan");
       System.out.println("Supraja");
+      System.out.println("Giri");
     }
   }
